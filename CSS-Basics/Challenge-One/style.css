@@ -1,0 +1,25 @@
+body{
+	background-color: #6495ED;
+}
+
+li:first-letter
+  {
+    font-weight: bold;
+  }
+a{
+	color: blue;
+}
+
+#wrap{
+	width: 500px;
+	margin: auto;
+	text-align: center;
+	
+	
+}
+
+ul{
+	list-style: none;
+	
+
+}
