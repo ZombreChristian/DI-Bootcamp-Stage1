@@ -1,25 +1,36 @@
+#wrap{
+	width: 500px;
+	margin: auto;
+	border-style: dotted;
+	text-align: center;
+	background-color: #FFFFF0;
+	
+}
+
+h1{
+	font-weight: 100px;
+	border-bottom-style:dotted;
+	margin-top: 2px;
+
+	
+}
+
+a{
+	color: blue;
+}
+
+ul,h1{
+	list-style: none;
+	font-style: italic;
+
+}
+
+
 body{
-	background-color: #6495ED;
+	background-color: #DEB887;
 }
 
 li:first-letter
   {
     font-weight: bold;
   }
-a{
-	color: blue;
-}
-
-#wrap{
-	width: 500px;
-	margin: auto;
-	text-align: center;
-	
-	
-}
-
-ul{
-	list-style: none;
-	
-
-}
